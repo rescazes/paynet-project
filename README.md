@@ -55,25 +55,6 @@ PayNet loyihasi xavfsizlikni birinchi o'ringa qo'yadi:
 - 🔍 **Input Validation** — ma'lumotlar kirishida tekshiruv
 - 🚫 **SQL Injection himoyasi** — parametrlashtirilgan so'rovlar
 
----
-
-## 🧪 Testlar
-
-```bash
-# Barcha testlarni ishga tushirish
-npm test
-
-# Test qamrovini ko'rish
-npm run test:coverage
-
-# Faqat birlik testlar
-npm run test:unit
-
-# Integratsiya testlar
-npm run test:integration
-```
-
----
 
 ## 🤝 Hissa qo'shish
 
