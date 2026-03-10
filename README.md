@@ -95,14 +95,6 @@ Savollar yoki takliflar bo'lsa, bizga murojaat qiling:
 
 </div>
 
----
-
-## 📄 Litsenziya
-
-Bu loyiha [MIT litsenziyasi](LICENSE) ostida tarqatiladi.
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:48CAE4,100:6C63FF&height=120&section=footer" width="100%"/>
