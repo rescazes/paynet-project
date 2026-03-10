@@ -66,35 +66,6 @@ Loyihaga hissa qo'shmoqchimisiz? Ajoyib! 🎉
 4. Branch-ni push qiling (`git push origin feature/yangi-xususiyat`)
 5. **Pull Request** oching
 
-Iltimos, [CONTRIBUTING.md](CONTRIBUTING.md) faylini o'qib chiqing.
-
----
-
-## 📈 Yo'l xaritasi
-
-- [x] Asosiy to'lov tizimi
-- [x] REST API
-- [x] Foydalanuvchi autentifikatsiyasi
-- [ ] Mobil ilova (iOS & Android)
-- [ ] Kriptovalyuta to'lovlari
-- [ ] Batch to'lovlar
-- [ ] Hisobot va analitika moduli
-- [ ] Webhook tizimi
-
----
-
-## 📞 Aloqa
-
-Savollar yoki takliflar bo'lsa, bizga murojaat qiling:
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-info@paynet.uz-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@paynet.uz)
-[![Telegram](https://img.shields.io/badge/Telegram-@paynet__uz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/paynet_uz)
-[![Website](https://img.shields.io/badge/Website-paynet.uz-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://paynet.uz)
-
-</div>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:48CAE4,100:6C63FF&height=120&section=footer" width="100%"/>
